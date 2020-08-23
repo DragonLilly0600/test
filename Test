@@ -15,6 +15,6 @@ category: crafting
 idleSound: respawning
 idleSoundVolume: 0.5
 results: [
-    commandblocks.bittrium/5
+    t-space/6
 ]
 research: mechanical-drill
